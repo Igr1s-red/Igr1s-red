@@ -6,4 +6,7 @@ I'm a security researcher with a deep passion for kernel and Linux. My journey i
 - 🌱 I’m currently learning more about exploit mitigation techniques.
 - 💬 Ask me about Linux kernel internals, system hardening, or cybersecurity trends.
 - 📫 How to reach me: bloodred.commander@proton.me
+- 👨‍💻 All of my projects are available at https://github.com/Igr1s-red
+- 📝 I regularly write articles on https://blog.igris.red/
 - 😄 Pronouns: He/Him
+
